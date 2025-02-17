@@ -1,9 +1,11 @@
 # Studio Project - Neural Simulation with Interactive Floating Neurons #
-Link to Repository: https://github.com/adra086/Studio-Project-/edit/main/README.md
+Link to Repository: (https://adra086.github.io/Studio-Project-/)
 
 ## Overview ##
 
-This project is a neural network-inspired simulation built using p5.js, where floating neurons can connect dynamically based on proximity. Users can click to generate new neurons, drag to move them, and observe automatic, rule-based connections forming between neurons. This project explores interactive computational art through principles of biological neural networks, movement, and connectivity.
+This project is a neural network-inspired simulation built using p5.js, where floating neurons can connect dynamically based on proximity. 
+Users can click to generate new neurons, drag to move them, and observe automatic, rule-based connections forming between neurons. 
+This project explores interactive computational art through principles of biological neural networks, movement, and connectivity.
 
 ## Features ##
 
@@ -104,6 +106,7 @@ This project was developed with inspiration from:
 
   - p5.js Official Documentation - https://p5js.org/reference/
       Frequently used to understand how specific functions (e.g., dist(), map(), constrain()) work.
+  - 
       
 ### Future Improvements ###
 
